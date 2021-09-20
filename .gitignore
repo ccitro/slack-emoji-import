@@ -36,3 +36,6 @@ testem.log
 Thumbs.db
 UserInterfaceState.xcuserstate
 $RECYCLE.BIN/
+
+# local files
+/data
